@@ -1,10 +1,6 @@
 # 通知！
-# 本人听说这个工具报毒，现在正在检查文件，先不要下载
-# 本人听说这个工具报毒，现在正在检查文件，先不要下载
-# 本人听说这个工具报毒，现在正在检查文件，先不要下载
-# Don't Download it!
-# Don't Download it!
-# Don't Download it!
+# 本人听说这个工具报毒，检查结果与原作者最后的release一致
+# 请查看https://github.com/jie65535/GrasscutterCommandGenerator/issues/105
 
 # GrasscutterTool-3.0.5
 > 原神3.0.5GC工具 v2.3.3
