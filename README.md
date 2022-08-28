@@ -1,6 +1,6 @@
 # 通知！
 ## 最近，有人声称本人的GC命令工具带有后门
-## 对此，本人对比了本项目最后的release与原项目的最后的release
+## 对此，本人对比了本项目最后的release与原项目的最后的release(1.6.2)
 ## 本人的release：https://www.virscan.org/report/56a5276e8030edc564b031ce834d2a3312dfc47cd72b2d6d22ba11e8c0284a93
 ## 原作者的release：https://www.virscan.org/report/3791a364470bbeeee8f633513848e11a6f0f9b9e6d6d0dd359635ad132e7c56c
 ## 查毒结果一致，本人并未植入后门！
