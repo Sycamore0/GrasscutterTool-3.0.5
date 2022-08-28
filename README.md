@@ -9,7 +9,7 @@
 # 请勿刻意抹黑本人[@Sycamore0](https://github.com/Sycamore0) 及原作者[@jie65535](https://github.com/jie65535)
 
 # GrasscutterTool-3.0.5
-> 原神3.0.5GC工具 v2.3.3
+> 原神3.0.5GC工具 v2.3.3(based on v1.5.5)
 
 点个免费的star再[拿走](https://github.com/TeyvatL/GrasscutterTool-3.0.5/releases)吧！
 
