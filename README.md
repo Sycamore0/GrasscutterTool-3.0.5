@@ -1,3 +1,11 @@
+# 通知！
+# 本人听说这个工具报毒，现在正在检查文件，先不要下载
+# 本人听说这个工具报毒，现在正在检查文件，先不要下载
+# 本人听说这个工具报毒，现在正在检查文件，先不要下载
+# Don't Download it!
+# Don't Download it!
+# Don't Download it!
+
 # GrasscutterTool-3.0.5
 > 原神3.0.5GC工具 v2.3.3
 
