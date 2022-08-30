@@ -15,6 +15,9 @@
 
 Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 
+## 嗯，我有修复后的3.1quest res,v me 0.9btc for leak.
+## 这次我就不加密放这了。
+
 # 说明
  - 只支持 `简体中文`！
  - 只支持 `简体中文`！
@@ -25,14 +28,15 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 
 # 内容
  - 3.0的较为完整的handbook(大概)
- - 2.8完整Gadget ids(非完全中文)+部分3.0 gadget
+ - 2.8完整Gadget ids(非完全中文)+部分3.0 gadget+部分3.1gadget
  - 3.1地区特产
  - 3.1摆设
  - 3.1角色
  - 3.1魔物/动物
  - 3.1武器/天赋突破素材
  - 3.1场景(部分)
-
+ - 3.1任务
+ 
 # 截图
 ![image](https://user-images.githubusercontent.com/64587684/186932891-18930c14-6923-4477-a919-39f80feb1171.png)
 ![image](https://user-images.githubusercontent.com/64587684/186932935-e8e01f7d-721c-4a8f-96fc-70fc7adcaef6.png)
@@ -55,7 +59,3 @@ umaru#6658
 Sakura616#0807
 
 瑶瑶#1804
-
-# 更新日志
-## 20220826
- - upload
