@@ -1,3 +1,5 @@
+點亮地圖
+/prop unlockmap 1
 無敵
 /prop god on
 無限體力
