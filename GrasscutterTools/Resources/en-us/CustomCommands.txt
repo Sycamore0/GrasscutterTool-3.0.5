@@ -1,3 +1,5 @@
+Unlock Map
+/prop unlockmap 1
 God Mode
 /prop god on
 NoStamina
