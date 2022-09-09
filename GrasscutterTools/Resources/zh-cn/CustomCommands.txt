@@ -1,3 +1,5 @@
+点亮地图
+/prop unlockmap 1
 上帝模式
 /prop god on
 上帝模式(old)
